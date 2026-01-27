@@ -11,7 +11,7 @@ snake-game/
 
 ## 🚀 Getting Started  
 Prerequisites  
-- Python 3.x
+- Python 3
 - Turtle module (comes pre-installed with Python)
 
 ## 🎯 How to Play  
