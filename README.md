@@ -3,11 +3,11 @@ A simple yet addictive implementation of the classic Snake game i built with Pyt
 
 ## Structure  
 snake-game/  
-├── main.py          Game initialization  
-├── snake.py         Snake class and movement logic  
-├── food.py          Food class and collision detection  
-├── scoreboard.py    Score tracking and display  
-└── README.md        This file
+├── main.py          -Game initialization  
+├── snake.py         -Snake class and movement logic  
+├── food.py          -Food class and collision detection  
+├── scoreboard.py    -Score tracking and display  
+└── README.md        -This file
 
 ## 🚀 Getting Started  
 Prerequisites  
