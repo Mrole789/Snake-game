@@ -38,6 +38,12 @@ class Snake:
             self.ssv[x].goto(sscor[0],sscor[1])
         self.ssv[0].forward(SD)
         
+    def reset(self):
+        for x in self.ssv:
+            x.goto(10000,10000)
+        self.ssv.clear()
+        self.create_snake()
+        
     def up(self):
         if self.ssv[0].heading() != DOWN:
             self.ssv[0].seth(UP)
