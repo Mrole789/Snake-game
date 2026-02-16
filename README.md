@@ -14,6 +14,21 @@ Prerequisites
 - Python 3
 - Turtle module (comes pre-installed with Python)
 
+##Installation
+ 
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/snake-game.git
+cd snake-game
+```
+
+1. Run the game:
+
+```bash
+python main.py
+```
+
 ## 🎯 How to Play  
 1. Use the Arrow Keys to control the snake:  
    - ⬆️ Up Arrow: Move Up  
