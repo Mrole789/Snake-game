@@ -14,7 +14,7 @@ Prerequisites
 - Python 3
 - Turtle module (comes pre-installed with Python)
 
-##Installation
+## Installation
  
 1. Clone the repository:
 
