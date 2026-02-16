@@ -7,6 +7,7 @@ snake-game/
 ├── snake.py         -Snake class and movement logic  
 ├── food.py          -Food class  
 ├── scoreboard.py    -Score tracking and display  
+├── highscore.txt        ### NEW - auto-generated  
 └── README.md        -This file
 
 ## 🚀 Getting Started  
@@ -43,3 +44,16 @@ python main.py
    - Colliding with the walls  
    - Colliding with your own tail  
 5. Try to beat your high score!
+
+## 🔄 Update: High Score Persistence Added to Snake Game!
+
+📁 New File: highscore.txt  
+· Initially contains 0  
+· Updates in real-time when you beat your record  
+· Simple text format for easy viewing/modification  
+
+🔧 Updated File: scoreboard.py
+
+The scoreboard now features file I/O operations:
+· .read() and 
+· .write()
