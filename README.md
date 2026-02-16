@@ -54,6 +54,6 @@ python main.py
 
 🔧 Updated File: scoreboard.py
 
-The scoreboard now features file I/O operations:
+The scoreboard now features file I/O operations:  
 · .read() and 
 · .write()
